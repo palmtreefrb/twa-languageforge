@@ -1,0 +1,2 @@
+rootProject.name = "twa-languageforge"
+include ':app'
